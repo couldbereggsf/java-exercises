@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Shopping cart program.iml" filepath="$PROJECT_DIR$/Shopping cart program.iml" />
+=======
+>>>>>>> 42d67827c2d0113be392dc48793fa62c150a59b1
     </modules>
   </component>
 </project>
